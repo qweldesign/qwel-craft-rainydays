@@ -1,8 +1,11 @@
-# QWEL CREATIVE TEMPLATE
+# 「あめぐらゲーム」プロトタイプ | Rainy Days
 
-[QWEL.DESIGN](https://qwel.design/) の作品集 Creative Crafts のためのテンプレート
+東京都町田市在住の頃、雨水を貯めて活用するという思想の元、ごく小さな規模で市民活動を行っていた。  
+そのとき、教育活動の一環として使えないかと思い付きでつくった「あめぐらゲーム」のプロトタイプ。
 
-[https://qwel.design/creative/](https://qwel.design/creative/)
+[https://qwel.design/creative/rainydays/](https://qwel.design/creative/rainydays/)
+
+---
 
 ---
 
